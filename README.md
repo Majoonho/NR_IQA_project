@@ -14,7 +14,9 @@
   
    
 <p align="center"><img src="https://user-images.githubusercontent.com/103080228/201522891-07de2fba-fe95-4a6d-b346-de6a190af8af.JPG"  width="500" height="300"></p>
-<p align="left"><img src="https://user-images.githubusercontent.com/103080228/201523838-6b34be14-b833-4b50-a6ef-8dba442dfdab.JPG"  width="500" height="300"><img src="https://user-images.githubusercontent.com/103080228/201523842-bd70920e-0ded-4584-8a11-903710db14e3.JPG"  width="500" height="300"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/103080228/201523854-30db6a6f-0003-4c9f-8a51-d7f9c992787a.JPG"  width="500" height="300"></p>
+
+
+<p align="left"><img src="https://user-images.githubusercontent.com/103080228/201523838-6b34be14-b833-4b50-a6ef-8dba442dfdab.JPG"  width="450" height="300"><img src="https://user-images.githubusercontent.com/103080228/201523842-bd70920e-0ded-4584-8a11-903710db14e3.JPG"  width="450" height="300"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/103080228/201523828-b078f137-5f45-435b-b12e-da2c6f17fda4.JPG"  width="500" height="300"></p>
 
 
