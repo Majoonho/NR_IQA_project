@@ -12,9 +12,6 @@
   * 기업에서 원하는 사항 : 이미지 합성(생성)시 원본사진이 없으므로 이미지퀄리티 평가가 불가능 --> NR Metric으로 해결하길 원함
   * 문제점 : MOS 지표를 가지고 있는 얼굴 데이터셋을 찾기 힘들며, 단일 Metric 으로 좋은 결과를 내기 어려움
   
-  
-  
-  
-  
-  
-  
+   
+ <p align="center"><img src="https://user-images.githubusercontent.com/103080228/201522891-07de2fba-fe95-4a6d-b346-de6a190af8af.JPG"  width="500" height="300"></p>
+    
