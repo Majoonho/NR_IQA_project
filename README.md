@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome!%20&fontSize=60&fontAlignY=40&desc=I'm%20joonho)
 
 
-* 팀원 : 노치현, 마준호, 임건희
-* 프로젝트 수행기간 : 2달
-* Time Flow : 1주(기획) -> 1주(Data eda, Image crop) -> 2주(FR_IQA구현) -> 4주(NR_IQA 구현) -> 1주(발표 PPT 준비)
-* my part : 기획참여, Image crop 구현, NR_IQA Metric 구현, ppt 제작   <br/><br/>
+###### 팀원 : 노치현, 마준호, 임건희
+###### 프로젝트 수행기간 : 2달
+###### Time Flow : 1주(기획) -> 1주(Data eda, Image crop) -> 2주(FR_IQA구현) -> 4주(NR_IQA 구현) -> 1주(발표 PPT 준비)
+###### my part : 기획참여, Image crop 구현, NR_IQA Metric 구현, ppt 제작   <br/><br/><br/>
 
 
 ### NR_IQA (No Reference Image Quality Assessment)
