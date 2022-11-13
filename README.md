@@ -40,14 +40,16 @@
 
 ### 데이터 이상치 탐색
 
- * FR-IQA 구현
-   * MSE/RMSE, PSNR/PSNR-B, UQI, SSIM/MS-SSIM, ERGAS, SCC, SAM ,VIFP, WaDIQaM/DIQaM 등의<br/> Metric 구현 - 노치현, 임건희
- * NR-IQA 구현  
-   * IL-NIQE, CNN, BRISQUE, CPBD, NIQE, WaDIQaM/DIQaM, HYPER - 마준호
-   * 구현하면서 어려운 점 
-     - 옛날 논문을 기반으로 만들어져서 버전이 대부분 다름
-     - 사라진 함수의 경우 최신 doc를 참고해서 다시 만들어야함 <br/> --> 구글링을 통해 해결, 오랜 시간 고민하면서 문제해결에 자신감이 생김 
+ * NR_Metric correlation/ROCC,LCC
+   * kadid dataset 의 MOS 지표와 상관관계를 보면, <br/> 뚜렷한 특징이 있는 것과 아닌 것을 확인할 수 있습니다.
+ 
+ <p align="left"><img src="https://user-images.githubusercontent.com/103080228/201550805-790e4fdc-9d4c-4e2a-81bd-863371fd26a4.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201550810-d814112a-ea86-49b3-9ce1-6c12a175a8ca.JPG"  width="370" height="300"></p>
   
+* Boxplot 탐색
+  * 다른 NR_Metric 에 비해 NIQE 계열만이 이상치가 확인됩니다. <br/> --> 이상치 데이터를 확인하고 Metric 신뢰여부 판단
+<p align="left"><img src="https://user-images.githubusercontent.com/103080228/201550811-8c68f232-0f0d-4915-ab54-9f7e6ed4dfc0.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201550813-c24c8198-be52-4d2d-bcc9-f0c40eda0425.JPG" width="370" height="300"></p>
+
+
  
 
 
