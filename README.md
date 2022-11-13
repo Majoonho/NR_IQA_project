@@ -1,1 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome!%20&fontSize=60&fontAlignY=40&desc=I'm%20joonho)
+
+
+* 팀원 : 노치현, 마준호, 임건희
+* 프로젝트 수행기간 : 2달
+* Time Flow : 1주(기획) -> 1주(Data eda, Image crop) -> 2주(FR_IQA구현) -> 4주(NR_IQA 구현) -> 1주(발표 PPT 준비)
+* my part : 기획참여, Image crop 구현, NR_IQA Metric 구현, ppt 제작   <br/><br/>
+
+
+### NR_IQA (No Reference Image Quality Assessment)
+  * Task 목적 : 기업현장에서 이미지 합성(생성)을 할 경우 발생하는 distortion 에 대해 이미지 퀄리티평가를 자동으로 하는 것입니다.
+  * 기업에서 원하는 사항 : 이미지 합성(생성)시 원본사진이 없으므로 이미지퀄리티 평가가 불가능 --> NR Metric으로 해결하길 원함
+  * 문제점 : MOS 지표를 가지고 있는 얼굴 데이터셋을 찾기 힘들며, 단일 Metric 으로 좋은 결과를 내기 어려움
+  
+  
+  
+  
+  
+  
+  
