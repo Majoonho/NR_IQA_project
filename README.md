@@ -78,6 +78,11 @@
   * 다만 Test dataset 의 label 이 과제출제자의 개인 의견이므로 신뢰성은 높지 않음 
   * 처음 과제 distortion(blur만 하기로 함) 과 맞지 않아 더 정확한 결과를 못낸것이 아쉬움
  <img src="https://user-images.githubusercontent.com/103080228/201576447-b1b218fe-b2a2-497e-bcaf-aeab76e5f02d.JPG"  width="500" height="300">
+ <br/>
+ 
  
 ### Discussion
- <img src="https://user-images.githubusercontent.com/103080228/201575304-c31d07c2-5612-49f5-aac5-5ebc75427c47.JPG"  width="500" height="300">
+ * Task 의 목적을 기업에서의 활용에 초점을 준 만큼, 성능, 범용성, 유지관리 및 비용이라는 <br/> 측면에서 더 생각해보려고 노력하였습니다.
+ <p align="left"><img src="https://user-images.githubusercontent.com/103080228/201578452-8deec17f-8efa-4f07-8522-fb48d270af18.JPG"  width="500" height="300">
+ <img src="https://user-images.githubusercontent.com/103080228/201578459-5c495558-bdc3-44f5-8796-f81be98096e2.JPG"  width="500" height="300"></p>
+
