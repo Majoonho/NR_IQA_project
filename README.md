@@ -49,9 +49,15 @@
   * 다른 NR_Metric 에 비해 NIQE 계열만이 이상치가 확인됩니다. <br/> --> 이상치 데이터를 확인하고 Metric 신뢰여부 판단
 <p align="left"><img src="https://user-images.githubusercontent.com/103080228/201550811-8c68f232-0f0d-4915-ab54-9f7e6ed4dfc0.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201550813-c24c8198-be52-4d2d-bcc9-f0c40eda0425.JPG" width="370" height="300"></p>
 
-
+ * KADID-10k score Distribution for each NR-IQAs 
+ <br/>
  
+### How to choose NR_Metric
 
+
+ * Feature Importance
+ * D-test, P-test, L-test
+<p align="left"><img src="https://user-images.githubusercontent.com/103080228/201550811-8c68f232-0f0d-4915-ab54-9f7e6ed4dfc0.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201550813-c24c8198-be52-4d2d-bcc9-f0c40eda0425.JPG" width="370" height="300"></p>
 
 
  
