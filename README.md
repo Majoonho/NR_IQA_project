@@ -57,10 +57,9 @@
 
  * Feature Importance
  * D-test, P-test, L-test
-<p align="left"><img src="https://user-images.githubusercontent.com/103080228/201550811-8c68f232-0f0d-4915-ab54-9f7e6ed4dfc0.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201550813-c24c8198-be52-4d2d-bcc9-f0c40eda0425.JPG" width="370" height="300"></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/103080228/201574856-40892445-cce5-4dc1-97ed-50bd1ed517a0.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201574863-fc029afd-b554-41c6-866b-2ae47a77ebb6.JPG" width="370" height="300"></p>
 
 
- 
 
 
 
