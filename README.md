@@ -1,14 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome!%20&fontSize=60&fontAlignY=40&desc=I'm%20joonho)
 
 
-##### 팀원 : 노치현, 마준호, 임건희 <br/>프로젝트 수행기간 : 2달<br/>Time Flow : 1주(기획) -> 2주(FR_IQA구현) -> 4주(NR_IQA 구현) -> 1주(Data EDA, Image crop) -> 1주(발표 PPT 준비)<br/>my part : 기획참여, Image crop 구현, NR_IQA Metric 구현, ppt 제작   <br/><br/><br/>
+##### 팀원 : 노치현, 마준호, 임건희 <br/>프로젝트 수행기간 : 2달<br/>Time Flow : 1주(기획) -> 2주(FR_IQA구현) -> 2주(NR_IQA 구현) -> 1주(Data EDA, Image crop) -> 모델학습 -> 1주(발표 PPT 준비)<br/>my part : 기획참여, Image crop 구현, NR_IQA Metric 구현, ppt 제작   <br/><br/><br/>
 
 
 # NR_IQA (No Reference Image Quality Assessment)
   * Task 목적 : 기업현장에서 이미지 합성(생성)을 할 경우 발생하는 distortion 에 대해<br/> 이미지 퀄리티평가를 자동으로 하는 것입니다.
   * 기업에서 원하는 사항 : 이미지 합성(생성)시 원본사진이 없으므로 이미지퀄리티 평가가 불가능<br/> --> NR Metric으로 해결하길 원함
   * 성능평가 : ROCC/LCC
-  * 문제점 : MOS 지표를 가지고 있는 얼굴 데이터셋을 찾기 힘들며,<br/> 단일 Metric 으로 좋은 결과를 내기 어려움
+  * 문제점 : MOS 지표를 가지고 있는 얼굴 데이터셋을 찾기 힘들며,<br/> 단일 Metric 으로 좋은 결과를 내기 어려움<br/><br/>
+  
+  * 가설 : FR/NR Metric 을 fusion 하면 앙상블 모델처럼 성능이 향상될 수 있다.
+  * 결과 : Metric 간의 단점을 서로 보완해주어, 실제로도 더 좋은 결과를 만들어 내었음 <br/> --> 세밀한 모델을 만든다면, 더 좋은 결과가 예상되어집니다.
+  
+  
   
   
 <img src="https://user-images.githubusercontent.com/103080228/201522891-07de2fba-fe95-4a6d-b346-de6a190af8af.JPG"  width="500" height="300">   
@@ -69,5 +74,10 @@
  <img src="https://user-images.githubusercontent.com/103080228/201575304-c31d07c2-5612-49f5-aac5-5ebc75427c47.JPG"  width="500" height="300">
  
  * Test dataset 결과
+  * Test dataset 에 분류되어 있는 이미지 퀄리티(high, middle, low)에 따라 분포가 되어 있음
+  * 다만 Test dataset 의 label 이 과제출제자의 개인 의견이므로 신뢰성은 높지 않음 
+  * 처음 과제 distortion(blur만 하기로 함) 과 맞지 않아 더 정확한 결과를 못낸것이 아쉬움
+ <img src="https://user-images.githubusercontent.com/103080228/201576447-b1b218fe-b2a2-497e-bcaf-aeab76e5f02d.JPG"  width="500" height="300">
  
-
+### Discussion
+ <img src="https://user-images.githubusercontent.com/103080228/201575304-c31d07c2-5612-49f5-aac5-5ebc75427c47.JPG"  width="500" height="300">
