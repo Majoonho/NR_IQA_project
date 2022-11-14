@@ -83,6 +83,23 @@
  
 ### Discussion
  * Task 의 목적을 기업에서의 활용에 초점을 준 만큼, 성능, 범용성, 유지관리 및 비용이라는 <br/> 측면에서 더 생각해보려고 노력하였습니다.
- <p align="left"><img src="https://user-images.githubusercontent.com/103080228/201578452-8deec17f-8efa-4f07-8522-fb48d270af18.JPG"  width="500" height="300">
- <img src="https://user-images.githubusercontent.com/103080228/201578459-5c495558-bdc3-44f5-8796-f81be98096e2.JPG"  width="500" height="300"></p>
+ <p align="left"><img src="https://user-images.githubusercontent.com/103080228/201578452-8deec17f-8efa-4f07-8522-fb48d270af18.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201578459-5c495558-bdc3-44f5-8796-f81be98096e2.JPG"  width="370" height="300"></p>
+ <br/>
+ 
+### To Do
+ * 더 많은 NR-IQAs 학습
+ * JPEG 압축 등의 다양한 distortion으로 학습
+ * LGBM 외 다른 Regression 모델을 사용한 Fusion 실험
+ * ML 모델이 아닌 DL 모델 학습에서의 성능평가
+ * 더 정밀한 Fusion을 위한 실험체계 구축
+ 
+ -----
+ * 이번 project 는 적은 인원으로 시작한만큼 해야할 것도 많았습니다. 
+ * 모델 자체는 간단하게 돌려보아서 어려움은 없었습니다. <br/> 하지만 버전문제, 없어진 함수 등을 해결하는데 매우 많은 시간이 걸렸습니다.
+ * mat 학습파일의 경우에는 python으로 불러오면 매우 느리다는 것도 배웠고, .py 를 .ipynb 로 바꾸는 것도 늘었습니다.
+ * 이상치파일을 걸러내는 함수를 만드는 경험도 재미있어서 배울 것이 많았던 project 입니다.
+ 
+ 
+ 
+ 
 
