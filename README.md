@@ -58,8 +58,16 @@
  * Feature Importance
  * D-test, P-test, L-test
 <p align="left"><img src="https://user-images.githubusercontent.com/103080228/201574856-40892445-cce5-4dc1-97ed-50bd1ed517a0.JPG"  width="370" height="300"><img src="https://user-images.githubusercontent.com/103080228/201574863-fc029afd-b554-41c6-866b-2ae47a77ebb6.JPG" width="370" height="300"></p>
+  
+ * Feature Importace, D,P,L-test, Data EDA를 통해 다음과 같은 Metric 선별.
+<img src="https://user-images.githubusercontent.com/103080228/201575299-95020762-f6e2-427f-b38e-a037f6eec1e3.JPG"  width="500" height="300">
+<br/>
+ 
 
-
-
-
+### 학습 결과
+ * MSE : train 0.01 val 0.18 <br/> ROCC 0.922 LCC 0.941
+ <img src="https://user-images.githubusercontent.com/103080228/201575304-c31d07c2-5612-49f5-aac5-5ebc75427c47.JPG"  width="500" height="300">
+ 
+ * Test dataset 결과
+ 
 
