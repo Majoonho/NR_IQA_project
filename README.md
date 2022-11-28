@@ -3,7 +3,7 @@
 
 ##### 팀원 : 노치현, 마준호, 임건희 <br/>프로젝트 수행기간 : 2달<br/>Time Flow : 1주(기획) -> 2주(FR_IQA구현) -> 2주(NR_IQA 구현) -> 2주(Data EDA, Image crop, 모델학습) -> 1주(발표 PPT 준비)<br/>my part : 기획참여, Image crop 구현, NR_IQA Metric 구현, ppt 제작   <br/><br/><br/>
 
-[NR-IQA자료조사](https://www.notion.so/NR-IQA-1bfd2f12e3c24cf79a2f531b079f2b44)
+[NR-IQA자료조사](https://tasteful-blouse-0e2.notion.site/NR-IQA-1bfd2f12e3c24cf79a2f531b079f2b44)
 ##### 목차 : Dectection --> IQA 란? --> 논문(Mean Opinion Score: MOS)이 실제 사용되는가? --> <br/>평가지표(ROCC/LCC) --> NR-IQA metric --> NR-IQA source-code
 
 # NR_IQA (No Reference Image Quality Assessment)
